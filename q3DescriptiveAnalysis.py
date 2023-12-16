@@ -5,7 +5,7 @@ categories = ['Bug-related', 'Error-messages', 'Syntax-challenges', 'Programming
               'code-optimization', 'conceptual-understanding', 'develop-environment-setup',
               'version-control', 'Api-usage/Installation', 'security-concerns']
 
-counts = [4, 15, 18, 68, 18, 47, 13, 6, 8, 0]
+counts = [12, 46, 54, 206, 54, 141, 39, 19, 25, 0]
 total = sum(counts)
 
 # Calculate percentages for the pie chart
@@ -20,5 +20,3 @@ plt.title('Recurring Patterns - Counts')
 plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for better readability
 plt.tight_layout()  # Adjust layout to prevent clipping
 plt.show()
-
-
