@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Data
+# Finding Data
 total_prompts = 1582
 useful_prompts = 655
 need_correction_prompts = 927
