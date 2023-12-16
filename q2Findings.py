@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 
 # Data
-identical = 15
-similar = 65
-different = 19
+identical = 86
+similar = 175
+different = 39
 total = identical + similar + different
 
 # Data for the pie chart
