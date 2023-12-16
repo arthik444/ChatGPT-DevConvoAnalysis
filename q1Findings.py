@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 
 # Data
-total_prompts = 504
-useful_prompts = 250
-need_correction_prompts = 254
-useful = 71
-need_of_correction = 28
+total_prompts = 1582
+useful_prompts = 655
+need_correction_prompts = 927
+useful = 204
+need_of_correction = 95
 
 # Calculate the average number of prompts per "useful" and "needCorrection"
 average_prompts_per_useful = useful_prompts / useful
